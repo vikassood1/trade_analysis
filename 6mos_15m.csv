@@ -1,8 +1,3 @@
-Strategy report
-Symbol: /MNQ:XCME
-Work Time: 9/21/22, 5:15 AM - 6/7/23, 7:15 AM
-
-
 Id;Strategy;Side;Quantity;Amount;Price;Date/Time;Trade P/L;P/L;Position;
 1;HODL_Strategy(GoLong);Buy to Open;2;4.0;$11,942.75;9/21/22, 5:15 AM;;$55.00;4.0;
 2;HODL_Strategy(GoShort);Sell to Close;-2;-4.0;$11,798.25;9/21/22, 11:15 AM;($578.00);($578.00);0.0;
@@ -655,10 +650,3 @@ Id;Strategy;Side;Quantity;Amount;Price;Date/Time;Trade P/L;P/L;Position;
 649;HODL_Strategy(GoLong);Buy to Open;2;4.0;$14,569.00;6/7/23, 3:15 AM;;$81,730.00;4.0;
 650;HODL_Strategy(GoShort);Sell to Close;-2;-4.0;$14,598.00;6/7/23, 7:15 AM;$116.00;$81,799.00;0.0;
 651;HODL_Strategy(GoShort);Sell to Open;-2;-4.0;$14,598.00;6/7/23, 7:15 AM;;$81,996.00;-4.0;
-
-
-Max trade P/L: $3,023.00;
-
-Total P/L: $81,799.00;
-
-Total order(s): 325;
